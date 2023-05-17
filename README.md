@@ -17,7 +17,7 @@ Yacc generates a parser in file y.tab.c and an include file y.tab.h. Lex include
 Lexical Analyser - expr.l
 Syntax analyser - expr.y
 
-## To Compiler and run the program [Scanner +parser] 
+## To Compiler and run the program [Scanner +parser]        
 
 * lex expr.l
 * yacc -d expr.y
